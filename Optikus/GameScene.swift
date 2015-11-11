@@ -9,7 +9,7 @@
 import SpriteKit
 
 class GameScene: SKScene, SKPhysicsContactDelegate {
-    // test
+    
     var suiviLumière = [[PropriétéPoint]]()
     var optics = [Optique]()
     var départ = [PropriétéPoint]()
